@@ -1,5 +1,7 @@
 # limit
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/haraka/haraka-plugin-limit.svg)](https://greenkeeper.io/)
+
 Apply several types of limits to SMTP connections.
 
 Each limit type has a max value that can be defined in limit.ini. The default is empty / disabled until a value has been set.
